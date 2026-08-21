@@ -1,4 +1,6 @@
-![Captura](imagenes/img.png)
+<p align="center">
+  <img src="imagenes/img.png" alt="Captura">
+</p>
 
 La clase Prestamo tiene las reglas para determinar si un préstamo está vencido y calcular los días de retraso, cualquier
 parte del programa usa los mismos criterios con sus métodos.
